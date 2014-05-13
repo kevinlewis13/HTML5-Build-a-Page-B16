@@ -1,9 +1,15 @@
 CACHE MANIFEST
-# 2014-05-13: v1
+# 2014-05-13: v1.1
 
 index.html
 main.css
 scripts.js
-images/
+images/ViDock2Spider34.png
 images/download.jpg
+images/ViDock34.jpg
+images/ViDock34closed.jpg
+images/VillageInstrumentsLogo.png
+
+NETWORK:
+*
 
